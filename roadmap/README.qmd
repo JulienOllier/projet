@@ -20,14 +20,28 @@ Comment les émissions de CO₂ et la pollution atmosphérique influencent-elles
 
 - Création du dépôt GitHub `Health4Earth` et structuration du projet
 - Téléchargement des jeux de données :
- - Émissions de CO₂ et pollution : Our World in Data
- - Mortalité et espérance de vie : Organisation Mondiale de la Santé (OMS)
+  - Émissions de CO₂ et pollution : Our World in Data
+  - Mortalité et espérance de vie : Organisation Mondiale de la Santé (OMS)
 
 ### Étapes à venir
 - Nettoyage et fusion des données
-- Sélection des variables pertinentes
+- Sélection des variables pertinentes : `co2`, `pm25`, `mortality_rate`, `life_expectancy`
 - Création des premières visualisations exploratoires
 - Modélisation prédictive (régression linéaire)
 - Création du site web interactif avec Quarto
 - Intégration des widgets et cartes interactives
 - Rédaction du rapport final et présentation orale
+
+## Visualisations exploratoires
+
+```{python}
+import pandas as pd
+import plotly.express as px
+
+df = pd.read_csv("data/cleaned_dataset.csv")
+
+fig1 = px.line(df, x="year", y="co2", color="country", title="Émissions de CO₂ par pays")
+fig1.show()
+
+fig2 = px.scatter(df, x="pm25", y="mortality_rate", color="country", title="Corrélation PM2.5 ↔ Mortalité")
+fig2.show()

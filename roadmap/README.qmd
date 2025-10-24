@@ -1,1 +1,38 @@
-# Roadmap du projet Health4Earth
+---
+title: "Rapport intermédiaire — Health4Earth"
+author: "Équipe Health4Earth"
+date: "24 octobre 2025"
+format: html
+editor: visual
+---
+
+# Health4Earth — Rapport intermédiaire
+
+## Objectifs du projet
+
+Le projet **Health4Earth** vise à analyser les liens entre les émissions
+de CO₂, la pollution atmosphérique et la santé publique, notamment
+les maladies respiratoires, la mortalité et l'espérence de vie liées
+au populations du monde entier. Nous cherchons à répondre à la question centrale :
+
+Comment les émissions de CO₂ et la pollution atmosphérique influencent-elles
+la santé publique, notamment les maladies respiratoires, la mortalité
+et l'espérence de vie liées des populations à travers le monde ?
+
+## Méthodologie
+
+### Étapes réalisées
+
+- Création du dépôt GitHub `Health4Earth` et structuration du projet
+- Téléchargement des jeux de données :
+  - Émissions de CO₂ et pollution : Our World in Data
+  - Mortalité et espérance de vie : Organisation Mondiale de la Santé (OMS)
+
+### Étapes à venir
+- Nettoyage et fusion des données
+- Sélection des variables pertinentes
+- Création des premières visualisations exploratoires
+- Modélisation prédictive (régression linéaire)
+- Création du site web interactif avec Quarto
+- Intégration des widgets et cartes interactives
+- Rédaction du rapport final et présentation orale

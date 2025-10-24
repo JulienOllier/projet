@@ -13,7 +13,6 @@ editor: visual
 - URL du dépôt :
 
 ## Composition du groupe
-
 | Prénom            | Nom             | 
 |-------------------|-----------------|
 | Dossou Modeste    | AGOSSOU         | 
@@ -33,11 +32,8 @@ respiratoires, la mortalité et l'espérance de vie des populations à travers l
 ---
 
 ## Architecture du projet minimum viable
-
 ### Arborescence du dépôt
-
 Health4Earth/ 
-
 ├── data/ # Données brutes et nettoyées
 
 ├── scripts/ # Scripts Python/R pour traitement et modélisation 
@@ -64,9 +60,8 @@ Health4Earth/
 ---
 
 ### Pipeline de développement
-
 1. **Collecte des données** :
-   - Our World in Data : émissions de CO₂, pollution PM2.5
+   - Our World in Data : émissions de CO₂, pollution atmosphérique
    - OMS : mortalité liée à la pollution, espérance de vie
 
 2. **Nettoyage et fusion** :
@@ -88,7 +83,6 @@ Health4Earth/
 ---
 
 ## Technologies utilisées
-
 - **Python** : pandas, scikit-learn, plotly, folium
 - **Quarto** : pour le site web interactif
 - **Git & GitHub** : gestion collaborative
@@ -98,13 +92,10 @@ Health4Earth/
 ---
 
 ## Prototypes visuels :
-
 Images simples (croquis, schémas, prototypes) montrant les résultats attendus :
-
 - Série chronologique : évolution des émissions de CO₂ et de la pollution atmosphérique
 - Carte interactive : mortalité et espérance de vie liées à la pollution par pays
 - Scatter plot : PM2.5 ↔ mortalité
-
 ```markdown
 ![Prototype série temporelle](../docs/prototype_temps.jpg)
 ![Prototype carte](../docs/prototype_carte.jpg)
@@ -112,7 +103,6 @@ Images simples (croquis, schémas, prototypes) montrant les résultats attendus 
 ---
 
 ## Branches Git créées :
-
 main : branche principale
 data : traitement et nettoyage des données
 model : modélisation prédictive

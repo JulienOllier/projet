@@ -2,6 +2,7 @@
 gantt
   title Retroplanning du projet Health4Earth
   dateFormat  YYYY-MM-DD
+  todayMarker off
 
   section Phase_1_Preparation
   Create_repo_and_skeleton      :done,    des1, 2025-10-18, 3d

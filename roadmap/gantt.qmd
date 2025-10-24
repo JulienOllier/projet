@@ -1,0 +1,25 @@
+```mermaid
+gantt
+    title Rétroplanification du projet Health4Earth
+    dateFormat  YYYY-MM-DD
+    axisFormat  %d/%m
+
+    section Initialisation
+    Création du dépôt GitHub        :done, des1, 2025-10-20, 1d
+    Collecte des données            :done, des2, 2025-10-21, 2d
+    Nettoyage des données           :active, des3, 2025-10-23, 3d
+    Rapport intermédiaire           :milestone, des4, 2025-10-25, 1d
+
+    section Analyse & Modélisation
+    Analyse exploratoire            :des5, 2025-10-26, 5d
+    Modélisation prédictive         :des6, 2025-11-01, 7d
+
+    section Site web interactif
+    Création du site Quarto         :des7, 2025-11-10, 5d
+    Intégration des visualisations  :des8, 2025-11-15, 5d
+    Déploiement GitHub Pages        :des9, 2025-11-20, 2d
+
+    section Finalisation
+    Rapport final                   :des10, 2025-12-01, 10d
+    Présentation orale              :milestone, des11, 2025-12-12, 1d
+```

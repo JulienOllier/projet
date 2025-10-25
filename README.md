@@ -108,7 +108,11 @@ Images simples (croquis, schémas, prototypes) montrant les résultats attendus 
 
 ## Branches Git :
 main : branche principale
+
 dev : branche secondaire de développement
+
 data : traitement et nettoyage des données
+
 model : modélisation prédictive
+
 site : développement du site Quarto

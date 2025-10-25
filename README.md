@@ -116,3 +116,26 @@ data : traitement et nettoyage des données
 model : modélisation prédictive
 
 site : développement du site Quarto
+
+
+## Résultats attendus
+
+L’interface du site web proposera une **carte interactive** des capitales mondiales. En cliquant sur une capitale, l’utilisateur pourra visualiser :
+
+- Une courbe des émissions de CO₂
+- Une courbe de pollution atmosphérique (PM2.5)
+- Une courbe de mortalité liée à la pollution
+- Une courbe d’espérance de vie
+
+Voici les croquis et illustrations qui représentent ces objectifs :
+
+![Carte interactive souhaitée](C:/Users/dmago/Documents/projet/docs/Carte_Interactive_Souhaitee.png)
+
+![Pollution atmosphérique par capitale](C:/Users/dmago/Documents/projet/docs/Air_Pollution_Per_Capital.jpg)
+
+![Pollution mondiale](C:/Users/dmago/Documents/docs/projet/Air-Pollution-Around-the-World.jpg)
+
+![Décès liés à la pollution](C:/Users/dmago/Documents/docs/projet/Die_Of_Air_pollution.jpg)
+
+![Espérance de vie gagnée grâce à un air plus pur](C:/Users/dmago/Documents/projet/docs/Life_Expectancy_From_Cleaner_Air.jpg)
+

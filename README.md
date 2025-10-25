@@ -103,14 +103,12 @@ Images simples (croquis, schémas, prototypes) montrant les résultats attendus 
 - Série chronologique : évolution des émissions de CO₂ et de la pollution atmosphérique
 - Carte interactive : mortalité et espérance de vie liées à la pollution par pays
 - Scatter plot : PM2.5 ↔ mortalité
-```markdown
-![Prototype série temporelle](../docs/prototype_temps.jpg)
-![Prototype carte](../docs/prototype_carte.jpg)
 
 ---
 
-## Branches Git créées :
+## Branches Git :
 main : branche principale
+dev : branche secondaire de développement
 data : traitement et nettoyage des données
 model : modélisation prédictive
 site : développement du site Quarto

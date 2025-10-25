@@ -34,6 +34,7 @@ respiratoires**, la **mortalité** et l'**espérance de vie** des populations à
 ## Architecture du projet minimum viable
 ### Arborescence du dépôt
 Health4Earth/
+
 ├── data/             # Données brutes et nettoyées
 
 ├── scripts/          # Scripts Python/R pour traitement et modélisation 
@@ -66,9 +67,10 @@ Health4Earth/
 
 ### Pipeline de développement
 1. **Collecte des données** :
-   - Our World in Data : émissions de CO₂, pollution atmosphérique
-   - OMS : maladies respiratoires, mortalité et espérance de vie liées à la pollution
-
+   - Our World in Data (OWID): émissions de CO₂, pollution atmosphérique
+   - World Health Organization (WHO) : mortalité et espérance de vie liées à la pollution
+   - Global Burden of Disease (GBD) : maladies respiratoires
+   
 2. **Nettoyage et fusion** :
    - Sélection des variables pertinentes
    - Harmonisation des formats et des unités

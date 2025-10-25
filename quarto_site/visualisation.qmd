@@ -1,0 +1,13 @@
+---
+title: "Visualisations"
+format: html
+---
+
+# 📊 Graphiques interactifs
+
+Cliquez sur une capitale pour afficher :
+
+- Émissions de CO₂
+- Pollution atmosphérique
+- Mortalité liée à la pollution
+- Espérance de vie

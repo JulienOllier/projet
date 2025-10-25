@@ -21,8 +21,9 @@ Comment les émissions de CO₂ et la pollution atmosphérique influencent-elles
 - Création du dépôt GitHub `Health4Earth` et structuration du projet
 - Téléchargement des jeux de données :
   - Émissions de CO₂ et pollution : Our World in Data
-  - Mortalité et espérance de vie : Organisation Mondiale de la Santé (OMS)
-
+  - Mortalité et espérance de vie : World Health Desease (WHO)
+  - Maladies respiratoires : Global Burden of Disease (GBD)
+  
 ### Étapes à venir
 - Nettoyage et fusion des données
 - Sélection des variables pertinentes : `co2`, `pm25`, `mortality_rate`, `life_expectancy`

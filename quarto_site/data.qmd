@@ -1,0 +1,14 @@
+---
+title: "Jeu de données"
+format: html
+---
+
+# Sources de données
+
+- Our World in Data : émissions de CO₂, PM2.5
+- WHO : mortalité liée à la pollution, espérance de vie
+- GBD : maladies respiratoires
+
+Les données ont été nettoyées et fusionnées dans le fichier `health4earth_dataset.csv`.
+
+```{r}

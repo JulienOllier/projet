@@ -45,12 +45,12 @@ L’interface du site web proposera une **carte interactive** des capitales mond
 
 Voici les croquis et illustrations qui représentent ces objectifs :
 
-![Carte interactive souhaitée](/c/Users/dmago/docs/Carte_Interactive_Souhaitee.png)
+![Carte interactive souhaitée](/c/Users/dmago/Documents/docs/Carte_Interactive_Souhaitee.png)
 
-![Pollution atmosphérique par capitale](/c/Users/dmago/docs/Air_Pollution_Per_Capital.jpg)
+![Pollution atmosphérique par capitale](/c/Users/dmago/Documents/docs/Air_Pollution_Per_Capital.jpg)
 
-![Pollution mondiale](/c/Users/dmago/docs/Air-Pollution-Around-the-World.jpg)
+![Pollution mondiale](/c/Users/dmago/Documents/docs/Air-Pollution-Around-the-World.jpg)
 
-![Décès liés à la pollution](/c/Users/dmago/docs/Die_Of_Air_pollution.jpg)
+![Décès liés à la pollution](/c/Users/dmago/Documents/docs/Die_Of_Air_pollution.jpg)
 
-![Espérance de vie gagnée grâce à un air plus pur](/c/Users/dmago/docs/Life_Expectancy_From_Cleaner_Air.jpg)
+![Espérance de vie gagnée grâce à un air plus pur](/c/Users/dmago/Documents/docs/Life_Expectancy_From_Cleaner_Air.jpg)

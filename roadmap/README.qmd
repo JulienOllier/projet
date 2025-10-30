@@ -10,9 +10,9 @@ editor: visual
 
 ## Objectifs du projet
 
-Le projet **Health4Earth** vise à analyser les liens entre les émissions de CO₂, la pollution atmosphérique et la santé publique, notamment les maladies respiratoires, la mortalité et l'espérence de vie des populations du monde entier. Nous cherchons à répondre à la question centrale :
+Le projet **Health4Earth** vise à analyser les liens entre les émissions de CO₂, la pollution atmosphérique et la santé publique. Nous cherchons à répondre à la question centrale :
 
-Comment les émissions de CO₂ et la pollution atmosphérique influencent-elles la santé publique, notamment les maladies respiratoires, la mortalité et l'espérence de vie des populations à travers le monde ?
+Comment les émissions de CO₂ et la pollution atmosphérique influencent-elles la santé publique, notamment les maladies respiratoires, la mortalité et l'espérance de vie des populations à travers le monde ?
 
 ## Méthodologie
 

@@ -9,6 +9,4 @@ format: html
 - WHO : mortalité liée à la pollution, espérance de vie
 - GBD : maladies respiratoires
 
-Les données ont été nettoyées et fusionnées dans le fichier `health4earth_dataset.csv`.
-
 ```{r}
